@@ -7,7 +7,7 @@ function randomNumb(){
   return `rgb(${r},${g},${b})`
 }
 
-app.use(express.static (_dirname + "/docs"));
+
 
   const letters = document.querySelectorAll('.letter');
   setInterval(function () { 
