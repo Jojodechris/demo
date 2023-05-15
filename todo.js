@@ -14,7 +14,7 @@ function randomNumb(){
   for (let letter of letters) {
       letter.style.color=randomNumb();
   }
-  },500)
+  },1000)
 
 
 
