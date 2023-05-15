@@ -6,13 +6,13 @@ body{
 }
 h1 {
     font-size: 5rem;
-    background-color: white; 
+    background-color: rgb(129, 129, 129); 
     font-family: 'Eater', cursive;
     /* font-family: 'Peralta', cursive; */
 }
 
 .letter {
-    transition: color 200ms;
+    transition: color 300ms;
 }
 
 .completed{
